@@ -57,9 +57,6 @@ int fib(int x){
 }
 ~~~
 
-## Proposta
-
-Vamos fazer um joguinho...
 
 
 ## Referência
