@@ -1,6 +1,7 @@
 # Estruturas de Dados
 
-<a href ="[https://www.linkedin.com/in/henrickyl/](https://www.linkedin.com/in/henrickyl/)"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30" height="30" />HenrickyL</a>
+<a href ="[https://www.linkedin.com/in/henrickyl/](https://www.linkedin.com/in/henrickyl/)" style='align-items: center;
+            justify-content: center;' ><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30" height="30" />HenrickyL</a>
 
 
 
