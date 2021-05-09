@@ -1,7 +1,8 @@
 # Estruturas de Dados
 
-<a href ="https://www.linkedin.com/in/henrickyl/" style='align-items: center;
-            justify-content: center;' ><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30" height="30" />HenrickyL</a>
+<a href ="https://www.linkedin.com/in/henrickyl/"  target="_blank" ><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="30" height="30" /></a>
+
+<a href ="https://instagram.com/HenrickyL"  target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="30" height="30" /></a>
 
 
 
