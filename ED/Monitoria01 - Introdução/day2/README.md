@@ -16,6 +16,8 @@
 
 ## Ponteiros
 
+## Recursão
+
 ## Estruturas
 
 ## Analise assintotica
