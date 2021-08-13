@@ -20,7 +20,7 @@ vector<Pos> get_vizinhos(Pos p){
 bool buscar(vector<string>& mat, Pos atual, Pos dest){
     if(atual.l == dest.l && atual.c == dest.c){
         return true;
-    }else //poder andar
+    }else //não poder andar
         if(mat[atual.l][atual.c]!=' '){
             return false;
     }else{
